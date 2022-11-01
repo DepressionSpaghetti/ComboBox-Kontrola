@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\bin\Debug\ComboBox kontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\bin\Debug\ComboBox kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\bin\Debug\ComboBox kontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox kontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox_kontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox_kontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox kontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\ComboBox kontrola\obj\Debug\ComboBox kontrola.pdb
